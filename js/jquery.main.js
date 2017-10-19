@@ -15,6 +15,12 @@ $(document).ready(function(){
     $('.branding-hover').mouseleave(function () {
         $('.branding-hover').removeClass('hover')
     });
+    $("#progress-1").circliful({
+        animationStep: 5,
+        foregroundBorderWidth: 5,
+        backgroundBorderWidth: 15,
+        percent: 75
+    });
 });
 
 

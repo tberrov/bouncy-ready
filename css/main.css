@@ -913,7 +913,8 @@ input[type='submit'] {
       font-size: 28px;
       position: absolute;
       top: 18%;
-      left: 14%; }
+      left: 14%;
+      color: #eeeff0; }
   .our_services .services-info .services-text h3 {
     color: #464646;
     font-family: "Open Sans",sans-serif;
